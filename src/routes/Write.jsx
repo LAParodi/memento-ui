@@ -1,6 +1,6 @@
 import { useUser } from "@clerk/clerk-react";
-import ReactQuill from "react-quill-new";
-import "react-quill-new/dist/quill.snow.css";
+import ReactQuill from 'react-quill-new';
+import 'react-quill-new/dist/quill.snow.css';
 
 const Write = () => {
   const { isLoaded, isSignedIn } = useUser();
@@ -42,7 +42,7 @@ const Write = () => {
           placeholder="Escribe aquí"
           className="write-textArea"
         />
-        <ReactQuill theme="snow" className="write-editor" />
+        <ReactQuill className="write-editor" />
         <button className="sendBtn">Publicar</button>
       </form>
     </section>

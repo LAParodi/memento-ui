@@ -1,7 +1,7 @@
 
 # Memento. UI | React 19
 
-Memento es un proyecto con fines educativos y/o prácticos para desarrolladores web. El proyecto tiene como objetivo enseñar buenas prácticas para maquetar, nombrar clases y estructurar proyectos de una manera entendible y amigable. Este repositorio es la primera parte del proyecto total, el cuál embarca la interfaz de usuario, componentes necesarios e integración de la autenticación de usuario. Puedes ver el proyecto en vivo desde [Memento. Ui](https://memento-ui.netlify.app/)
+Memento es un proyecto con fines educativos y/o prácticos para desarrolladores web. El proyecto tiene como objetivo enseñar buenas prácticas para maquetar, nombrar clases y estructurar proyectos de una manera entendible y amigable. Este repositorio es la primera parte del proyecto total, el cuál embarca la interfaz de usuario, componentes necesarios e integración de la autenticación de usuario.
 
 
 ## Tecnologías
